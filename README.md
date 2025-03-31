@@ -13,7 +13,7 @@ My name is Sebastian, I'm a 16-year-old developer based in Sweden with over 4 ye
 
 ## 🚀 Skills
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,discord,figma,github,bootstrap,tailwindcss,html,css,js,php,mysql,laravel,jquery,nodejs,vue,svelte,lua,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,discord,figma,github,bootstrap,tailwind,html,css,js,php,mysql,laravel,jquery,nodejs,vue,svelte,lua,vscode"/>
 </a>
 
 ## 🌟 Future Plans
