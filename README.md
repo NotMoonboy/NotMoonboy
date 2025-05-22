@@ -1,15 +1,15 @@
 # Hi there! 👋
 
-My name is Sebastian, I'm a 16-year-old developer based in Sweden with over 4 years of experience specializing in Web and FiveM development. My expertise includes creating custom scripts, buidling custom websites and building fivem servers from scratch.
+My name is Sebastian, I'm a 16-year-old developer based in Sweden with over 5 years of experience specializing in Web and FiveM development. My expertise includes creating custom scripts, buidling custom websites and building fivem servers from scratch.
 
 ## 📝 About me
 - 🎓 Still in high school and planning to become a own entrepreneur.
 - 🌱 Currently expanding my knowledge in different languages.
 - 💡 I'm interested in web development and creating different systems.
-- 🌐 My website: [swewebstore.se](https://swewebstore.se/)
+- 🌐 My website: [nextwebstudios.se](https://nextwebstudios.se/)
 - 📫 How to reach me:
   - Discord: [discord.gg/xrPFC6YBCR](https://discord.gg/xrPFC6YBCR)
-  - Email: [support@swewebstore.se](mailto:support@swewebstore.se)
+  - Email: [support@nextwebstudios.se](mailto:support@nextwebstudios.se)
 
 ## 🚀 Skills
 <a href="https://skillicons.dev">
