@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Sebastian, I'm a 16-year-old developer based in Sweden with over 5 years of experience specializing in Web and FiveM development. My expertise includes creating custom scripts, buidling custom websites and building fivem servers from scratch.
+My name is Sebastian, I'm a 17-year-old developer based in Sweden with over 6 years of experience specializing in Web and FiveM development. My expertise includes creating custom scripts, buidling custom websites and building fivem servers from scratch.
 
 ## 📝 About me
 - 🎓 Still in high school and planning to become a own entrepreneur.
@@ -20,3 +20,4 @@ My name is Sebastian, I'm a 16-year-old developer based in Sweden with over 5 ye
 - 🔨 I plan to expand my knowledge in more languages and advance my learning!
 - 👨‍💼 I plan to start my own company where I focus on selling websites or developing different systems for other companies.
 - 📚 Get a good education to expand my possibilities.
+
